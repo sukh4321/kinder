@@ -1,0 +1,320 @@
+@media (max-width:1440px){
+    .menu-header {
+	padding: 15px 0px;
+}
+    .top-header {
+	padding: 8px 0px;
+}
+    .top-header ul li {
+	padding-right: 15px;
+}
+    .top-header .common-btn {
+	padding: 4px 15px;
+	font-size: 14px;
+}
+    .home-banner {
+	height: 550px;
+}
+    .py-100 {
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+     .pb-100{padding-bottom:80px;}
+.pt-100{padding-top:80px;}
+}
+@media (max-width:1199px){
+    .home-banner {
+	height: 600px;
+}
+    .joinus-h {
+	margin-bottom: 60px;
+}
+    .py-100 {
+	padding-bottom: 60px;
+	padding-top: 60px;
+}
+    .pb-100{padding-bottom:60px;}
+.pt-100{padding-top:60px;}
+    .join-img img {
+	height: 100%;
+}
+    .foot-address h6 {
+	font-size: 18px;
+}
+    .top-header p {
+	text-align: center;
+}
+}
+
+@media (max-width:991px){
+    .top-header {
+	padding: 10px 0px;
+}
+    .menu-header {
+	padding: 15px 0px;
+}
+    .home-banner {
+	height: 500px;
+}
+    .graph-sun {
+	max-width: 43px;
+	right: 220px;
+}
+    h1 {
+	font-size: 50px;
+}
+    .home-banner p {
+	line-height: 35px;
+	margin-bottom: 40px;
+}
+    .common-btn {
+	padding: 11px 35px;
+	font-size: 16px;
+}
+    .news-txt {
+	padding: 0px 10px;
+}
+    .our-box img {
+	height: 130px;
+}
+    .our-lower {
+	padding: 15px;
+}
+    .our-lower h5 {
+	color: #850086;
+	font-weight: 700;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+    .our-lower p {
+	margin-bottom: 30px;
+}
+    .recent-lower {
+	padding: 15px 0px;
+}
+    .recent-lower h4 {
+	font-size: 20px;
+	line-height: 34px;
+        margin-bottom: 20px;
+}
+    .recent-lower h6 {
+	margin-bottom: 20px;
+}
+    .contact-box {
+	padding: 30px 80px;
+}
+    .feature-slider {
+	border-right: none;
+	border-bottom: none;
+}
+    .col-20 {
+	max-width: 33.3333%;
+	flex: 0 0 33.3333%;
+	-webkit-flex: 0 0 33.3333%;
+        margin-bottom: 20px;
+}
+}
+@media (max-width:767px){
+    .top-header p {
+	text-align: center;
+}
+    h1 {
+	font-size: 40px;
+}
+    .graph-bulb {
+	top: 140px;
+	left: 30px;
+	max-width: 39px;
+}
+    .joinus-h {
+	margin-bottom: 30px;
+}
+    .feature-slider {
+	border-right: none;
+	border-bottom: none;
+}
+    .latest-new-sec {
+	border-top: none;
+	padding: 0;
+}
+    .py-100 {
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+    .pb-100{padding-bottom:60px;}
+.pt-100{padding-top:60px;}
+    h2 {
+	font-size: 30px;
+}
+    .our-box img {
+	height: 100%;
+}
+    .our-btn {
+	margin-top: 30px;
+}
+    .event-txt {
+	padding: 30px 30px 0px 30px;
+}
+    .enrol-cloud {
+	left: 80px;
+	max-width: 70px;
+}
+    .enrol-bulb {
+	right: 140px;
+}
+    .enrol-star {
+	left: 140px;
+}
+    .col-20 {
+	max-width: 50%;
+	flex: 0 0 50%;
+	-webkit-flex: 0 0 50%;
+}
+    .logo-sec ul li {
+	padding-right: 20px;
+}
+}
+
+@media (max-width:575px){
+    .home-banner {
+	height: 400px;
+}
+    h1 {
+	font-size: 30px;
+}
+    .home-banner .common-btn {
+	padding: 9px 39px;
+}
+    .joinus-h {
+	padding: 10px;
+	max-width: 100%;
+}
+    .yellow-sun {
+	top: 50px;
+	max-width: 40px;
+}
+    .contact-box {
+	padding: 30px 30px;
+}
+    .site-footer {
+	text-align: center;
+}
+    .site-footer ul li::before {
+	display: none;
+}
+    .logo-sec ul li {
+	padding-right: 20px;
+}
+    .donate-sec{
+	text-align: center;
+}
+    .top-header .common-btn {
+	padding: 2px 11px;
+	font-size: 12px;
+}
+    .foot-address ul {
+	justify-content: center !important;
+	-webbkit-justify-content: center !important;
+	-ms-justify-content: center !important;
+}
+}
+@media (max-width:479px){
+    .graph-bulb {
+	top: 30px;
+}
+    .graph-sun {
+	right: 90px;
+	top: 250px;
+}
+    .joinus-h {
+	font-size: 25px;
+}
+    .enrol-bulb {
+	right: 10px;
+}
+    .enrol-star {
+	left: 30px;
+}
+    .event-box {
+	display: block !important;
+}
+    .event-txt {
+	padding: 20px;
+}
+    .event-img img {
+	height: 100%;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+    .event-img {
+	width: 100%;
+}
+    .event-txt {
+	width: 100%;
+}
+    .slick-arrow {
+	right: 0px;
+	
+}
+    .slick-prev {
+	right: 55px;
+}
+    .join-content {
+	padding-right: 0;
+	padding-bottom: 0;
+}
+    .foot-sun {
+	max-width: 40px;
+	top: 20px;
+}
+    .foot-bulb {
+	right: 20px;
+	max-width: 38px;
+	top: 30px;
+}
+    .bottom-foot p {
+	font-size: 14px;
+}
+    .join-content p {
+	margin-bottom: 30px;
+}
+    .enrol-cloud {
+	left: 10px;
+	max-width: 45px;
+}
+    .top-header ul li {
+	padding-right: 10px;
+ margin-bottom: 8px; 
+}
+    .col-20 {
+	max-width: 100%;
+	flex: 0 0 100%;
+	-webkit-flex: 0 0 100%;
+}
+    
+}
+@media (max-width:359px){
+    .graph-bulb {
+	top: 10px;
+	max-width: 27px;
+}
+   .yellow-sun {
+	top: 10px;
+	max-width: 30px;
+}
+    .our-btn {
+	margin-top: 20px;
+}
+    .py-100 {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+    .bottom-foot {
+
+	margin-top: 30px;
+	padding: 25px 0px;
+}
+      .pb-100{padding-bottom:40px;}
+.pt-100{padding-top:40px;}
+    
+}
